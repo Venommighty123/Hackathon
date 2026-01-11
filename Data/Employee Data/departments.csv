@@ -1,0 +1,6 @@
+dept,avg_tenure_months,avg_attendance_pct,avg_screen_time_hrs,avg_task_completion_score,certified_employee_pct
+Sales,31.1,89.4,7.6,80.2,45
+Engineering,29.8,89.9,6.4,84.1,52
+HR,29.6,90.8,5.5,82.7,58
+DevOps,27.4,82.1,8.6,52.3,0
+Marketing,23.6,88.1,7.1,75.4,33

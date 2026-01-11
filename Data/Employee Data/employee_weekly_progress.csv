@@ -1,0 +1,251 @@
+emp_id,name,dept,day,attendance_pct,screen_time_hours,task_completion_score,manager_comment_hint
+E1001,Aarav Sharma,Sales,Mon,93.9,7.39,84.5,Consistently meets targets and collaborates well with the team.
+E1001,Aarav Sharma,Sales,Tue,91.3,7.31,89.6,Consistently meets targets and collaborates well with the team.
+E1001,Aarav Sharma,Sales,Wed,90.6,8.11,89.9,Consistently meets targets and collaborates well with the team.
+E1001,Aarav Sharma,Sales,Thu,90.6,7.13,84.7,Consistently meets targets and collaborates well with the team.
+E1001,Aarav Sharma,Sales,Fri,86.8,5.97,83.2,Consistently meets targets and collaborates well with the team.
+E1002,Neha Verma,Engineering,Mon,88.9,5.99,75.2,Delivers stable output but could improve documentation.
+E1002,Neha Verma,Engineering,Tue,92.4,5.67,73.5,Delivers stable output but could improve documentation.
+E1002,Neha Verma,Engineering,Wed,83.7,6.85,76.9,Delivers stable output but could improve documentation.
+E1002,Neha Verma,Engineering,Thu,84.5,6.89,75.3,Delivers stable output but could improve documentation.
+E1002,Neha Verma,Engineering,Fri,87.1,6.32,79.9,Delivers stable output but could improve documentation.
+E1003,Rohit Mehta,HR,Mon,95.0,6.98,82.0,Very dependable and trusted with sensitive responsibilities.
+E1003,Rohit Mehta,HR,Tue,91.3,6.16,79.7,Very dependable and trusted with sensitive responsibilities.
+E1003,Rohit Mehta,HR,Wed,91.0,3.93,86.0,Very dependable and trusted with sensitive responsibilities.
+E1003,Rohit Mehta,HR,Thu,95.5,6.09,86.0,Very dependable and trusted with sensitive responsibilities.
+E1003,Rohit Mehta,HR,Fri,90.6,5.26,84.4,Very dependable and trusted with sensitive responsibilities.
+E1004,Simran Kaur,Marketing,Mon,93.2,6.83,72.4,Creative contributor with good campaign execution.
+E1004,Simran Kaur,Marketing,Tue,91.0,5.79,77.7,Creative contributor with good campaign execution.
+E1004,Simran Kaur,Marketing,Wed,91.8,6.66,74.1,Creative contributor with good campaign execution.
+E1004,Simran Kaur,Marketing,Thu,87.5,7.95,81.2,Creative contributor with good campaign execution.
+E1004,Simran Kaur,Marketing,Fri,92.9,7.47,74.5,Creative contributor with good campaign execution.
+E1005,Ankit Gupta,Sales,Mon,81.7,7.85,67.6,Shows potential but needs better time management.
+E1005,Ankit Gupta,Sales,Tue,89.1,8.65,64.0,Shows potential but needs better time management.
+E1005,Ankit Gupta,Sales,Wed,86.1,8.8,69.6,Shows potential but needs better time management.
+E1005,Ankit Gupta,Sales,Thu,89.6,8.29,66.8,Shows potential but needs better time management.
+E1005,Ankit Gupta,Sales,Fri,77.1,9.25,69.8,Shows potential but needs better time management.
+E1006,Priya Nair,Engineering,Mon,92.1,6.07,92.1,Strong problem-solving skills and mentors juniors.
+E1006,Priya Nair,Engineering,Tue,92.3,4.41,88.5,Strong problem-solving skills and mentors juniors.
+E1006,Priya Nair,Engineering,Wed,91.4,7.18,89.8,Strong problem-solving skills and mentors juniors.
+E1006,Priya Nair,Engineering,Thu,95.7,5.6,84.0,Strong problem-solving skills and mentors juniors.
+E1006,Priya Nair,Engineering,Fri,94.5,5.58,89.6,Strong problem-solving skills and mentors juniors.
+E1007,Kunal Singh,HR,Mon,77.9,7.27,65.5,Learning fast but still needs supervision.
+E1007,Kunal Singh,HR,Tue,75.6,6.19,63.4,Learning fast but still needs supervision.
+E1007,Kunal Singh,HR,Wed,80.0,6.71,66.5,Learning fast but still needs supervision.
+E1007,Kunal Singh,HR,Thu,78.7,5.37,63.8,Learning fast but still needs supervision.
+E1007,Kunal Singh,HR,Fri,79.5,5.86,63.3,Learning fast but still needs supervision.
+E1008,Riya Malhotra,Marketing,Mon,89.5,8.51,76.0,Delivers consistent results with minimal issues.
+E1008,Riya Malhotra,Marketing,Tue,83.2,6.94,75.3,Delivers consistent results with minimal issues.
+E1008,Riya Malhotra,Marketing,Wed,96.4,7.05,73.9,Delivers consistent results with minimal issues.
+E1008,Riya Malhotra,Marketing,Thu,88.9,7.24,73.0,Delivers consistent results with minimal issues.
+E1008,Riya Malhotra,Marketing,Fri,91.3,7.91,68.2,Delivers consistent results with minimal issues.
+E1009,Aditya Rao,Sales,Mon,98.2,7.07,94.0,Top performer with excellent client handling skills.
+E1009,Aditya Rao,Sales,Tue,100.0,8.27,83.0,Top performer with excellent client handling skills.
+E1009,Aditya Rao,Sales,Wed,94.3,7.35,85.0,Top performer with excellent client handling skills.
+E1009,Aditya Rao,Sales,Thu,94.2,6.56,87.5,Top performer with excellent client handling skills.
+E1009,Aditya Rao,Sales,Fri,91.2,8.18,84.7,Top performer with excellent client handling skills.
+E1010,Mehul Jain,Engineering,Mon,86.0,5.57,79.7,Average contributor with steady progress.
+E1010,Mehul Jain,Engineering,Tue,87.7,5.22,76.1,Average contributor with steady progress.
+E1010,Mehul Jain,Engineering,Wed,87.6,4.91,78.5,Average contributor with steady progress.
+E1010,Mehul Jain,Engineering,Thu,83.3,6.83,73.3,Average contributor with steady progress.
+E1010,Mehul Jain,Engineering,Fri,87.9,6.62,65.4,Average contributor with steady progress.
+E1011,Sonal Chatterjee,DevOps,Mon,80.0,8.78,56.3,Handles incidents but struggles with proactive improvements.
+E1011,Sonal Chatterjee,DevOps,Tue,79.9,8.73,56.2,Handles incidents but struggles with proactive improvements.
+E1011,Sonal Chatterjee,DevOps,Wed,78.4,8.88,64.3,Handles incidents but struggles with proactive improvements.
+E1011,Sonal Chatterjee,DevOps,Thu,84.4,7.72,58.3,Handles incidents but struggles with proactive improvements.
+E1011,Sonal Chatterjee,DevOps,Fri,84.9,7.84,60.8,Handles incidents but struggles with proactive improvements.
+E1012,Vikram Bansal,Engineering,Mon,95.7,10.16,40.0,Always online but misses deadlines and deliverables.
+E1012,Vikram Bansal,Engineering,Tue,87.3,8.9,40.0,Always online but misses deadlines and deliverables.
+E1012,Vikram Bansal,Engineering,Wed,91.0,9.44,40.0,Always online but misses deadlines and deliverables.
+E1012,Vikram Bansal,Engineering,Thu,90.0,10.16,40.0,Always online but misses deadlines and deliverables.
+E1012,Vikram Bansal,Engineering,Fri,98.2,9.29,42.3,Always online but misses deadlines and deliverables.
+E1013,Nidhi Kapoor,HR,Mon,92.8,4.31,95.1,Highly reliable and efficient in core HR processes.
+E1013,Nidhi Kapoor,HR,Tue,98.1,4.82,94.4,Highly reliable and efficient in core HR processes.
+E1013,Nidhi Kapoor,HR,Wed,93.5,4.94,94.4,Highly reliable and efficient in core HR processes.
+E1013,Nidhi Kapoor,HR,Thu,98.6,4.64,84.4,Highly reliable and efficient in core HR processes.
+E1013,Nidhi Kapoor,HR,Fri,96.5,4.0,93.1,Highly reliable and efficient in core HR processes.
+E1014,Arjun Iyer,Marketing,Mon,78.5,6.09,61.9,Still adjusting to role expectations.
+E1014,Arjun Iyer,Marketing,Tue,79.1,5.89,60.3,Still adjusting to role expectations.
+E1014,Arjun Iyer,Marketing,Wed,81.2,7.67,62.8,Still adjusting to role expectations.
+E1014,Arjun Iyer,Marketing,Thu,79.5,6.05,53.1,Still adjusting to role expectations.
+E1014,Arjun Iyer,Marketing,Fri,89.6,7.21,62.6,Still adjusting to role expectations.
+E1015,Manish Pandey,Sales,Mon,90.9,8.01,77.9,Performs adequately with occasional delays.
+E1015,Manish Pandey,Sales,Tue,90.3,6.85,78.3,Performs adequately with occasional delays.
+E1015,Manish Pandey,Sales,Wed,86.5,6.91,71.1,Performs adequately with occasional delays.
+E1015,Manish Pandey,Sales,Thu,82.4,8.95,75.4,Performs adequately with occasional delays.
+E1015,Manish Pandey,Sales,Fri,86.6,5.81,78.4,Performs adequately with occasional delays.
+E1016,Pooja Saxena,DevOps,Mon,80.8,8.25,57.4,Reactive work style and slow resolution times.
+E1016,Pooja Saxena,DevOps,Tue,81.8,8.74,48.4,Reactive work style and slow resolution times.
+E1016,Pooja Saxena,DevOps,Wed,82.0,8.24,53.1,Reactive work style and slow resolution times.
+E1016,Pooja Saxena,DevOps,Thu,77.9,8.71,62.7,Reactive work style and slow resolution times.
+E1016,Pooja Saxena,DevOps,Fri,86.6,7.67,52.9,Reactive work style and slow resolution times.
+E1017,Rahul Khanna,Engineering,Mon,92.5,6.41,82.0,Experienced engineer with consistent delivery.
+E1017,Rahul Khanna,Engineering,Tue,90.0,5.54,90.3,Experienced engineer with consistent delivery.
+E1017,Rahul Khanna,Engineering,Wed,96.3,5.98,83.6,Experienced engineer with consistent delivery.
+E1017,Rahul Khanna,Engineering,Thu,93.8,5.49,88.0,Experienced engineer with consistent delivery.
+E1017,Rahul Khanna,Engineering,Fri,86.4,7.33,96.6,Experienced engineer with consistent delivery.
+E1018,Ayesha Farooq,HR,Mon,80.9,6.81,65.6,Meets expectations but lacks initiative.
+E1018,Ayesha Farooq,HR,Tue,80.2,6.42,70.2,Meets expectations but lacks initiative.
+E1018,Ayesha Farooq,HR,Wed,79.9,3.21,67.7,Meets expectations but lacks initiative.
+E1018,Ayesha Farooq,HR,Thu,87.9,4.8,66.7,Meets expectations but lacks initiative.
+E1018,Ayesha Farooq,HR,Fri,83.4,5.45,60.8,Meets expectations but lacks initiative.
+E1019,Siddharth Bose,Marketing,Mon,95.5,6.25,87.2,Strong analytical input for marketing strategies.
+E1019,Siddharth Bose,Marketing,Tue,93.4,6.61,80.1,Strong analytical input for marketing strategies.
+E1019,Siddharth Bose,Marketing,Wed,92.2,6.92,81.0,Strong analytical input for marketing strategies.
+E1019,Siddharth Bose,Marketing,Thu,94.0,7.49,78.1,Strong analytical input for marketing strategies.
+E1019,Siddharth Bose,Marketing,Fri,98.4,6.41,87.9,Strong analytical input for marketing strategies.
+E1020,Varun Mallick,Sales,Mon,76.8,7.88,52.2,Early stage employee still learning sales cycles.
+E1020,Varun Mallick,Sales,Tue,74.4,7.5,63.4,Early stage employee still learning sales cycles.
+E1020,Varun Mallick,Sales,Wed,77.5,7.53,59.5,Early stage employee still learning sales cycles.
+E1020,Varun Mallick,Sales,Thu,77.7,7.45,63.8,Early stage employee still learning sales cycles.
+E1020,Varun Mallick,Sales,Fri,76.9,8.65,63.5,Early stage employee still learning sales cycles.
+E1021,Tanvi Joshi,Engineering,Mon,99.2,3.55,93.9,"Highly efficient, works offline and delivers exceptional results."
+E1021,Tanvi Joshi,Engineering,Tue,97.4,3.98,100.0,"Highly efficient, works offline and delivers exceptional results."
+E1021,Tanvi Joshi,Engineering,Wed,98.6,3.53,100.0,"Highly efficient, works offline and delivers exceptional results."
+E1021,Tanvi Joshi,Engineering,Thu,100.0,3.83,97.0,"Highly efficient, works offline and delivers exceptional results."
+E1021,Tanvi Joshi,Engineering,Fri,100.0,4.65,100.0,"Highly efficient, works offline and delivers exceptional results."
+E1022,Deepak Yadav,DevOps,Mon,85.1,9.45,58.1,Maintains systems but lacks optimization focus.
+E1022,Deepak Yadav,DevOps,Tue,86.3,8.8,59.6,Maintains systems but lacks optimization focus.
+E1022,Deepak Yadav,DevOps,Wed,92.3,8.25,61.0,Maintains systems but lacks optimization focus.
+E1022,Deepak Yadav,DevOps,Thu,89.5,7.93,53.0,Maintains systems but lacks optimization focus.
+E1022,Deepak Yadav,DevOps,Fri,87.9,9.4,62.0,Maintains systems but lacks optimization focus.
+E1023,Shreya Mukherjee,HR,Mon,90.2,4.88,76.9,Good interpersonal skills and steady task closure.
+E1023,Shreya Mukherjee,HR,Tue,89.6,6.38,73.6,Good interpersonal skills and steady task closure.
+E1023,Shreya Mukherjee,HR,Wed,91.2,5.34,72.9,Good interpersonal skills and steady task closure.
+E1023,Shreya Mukherjee,HR,Thu,90.7,4.94,74.2,Good interpersonal skills and steady task closure.
+E1023,Shreya Mukherjee,HR,Fri,88.6,5.19,78.2,Good interpersonal skills and steady task closure.
+E1024,Abhishek Arora,Marketing,Mon,80.8,5.74,72.2,Average campaign contributions.
+E1024,Abhishek Arora,Marketing,Tue,85.9,6.73,67.4,Average campaign contributions.
+E1024,Abhishek Arora,Marketing,Wed,84.5,7.59,78.4,Average campaign contributions.
+E1024,Abhishek Arora,Marketing,Thu,84.9,6.1,70.9,Average campaign contributions.
+E1024,Abhishek Arora,Marketing,Fri,82.5,7.16,69.6,Average campaign contributions.
+E1025,Naveen Pillai,Sales,Mon,92.7,8.93,90.6,Consistent closer with strong negotiation skills.
+E1025,Naveen Pillai,Sales,Tue,91.8,8.25,90.0,Consistent closer with strong negotiation skills.
+E1025,Naveen Pillai,Sales,Wed,93.3,7.71,89.1,Consistent closer with strong negotiation skills.
+E1025,Naveen Pillai,Sales,Thu,94.5,7.72,84.1,Consistent closer with strong negotiation skills.
+E1025,Naveen Pillai,Sales,Fri,99.5,8.47,95.3,Consistent closer with strong negotiation skills.
+E1026,Isha Bhatia,Engineering,Mon,82.6,7.0,65.2,Needs guidance on complex tasks.
+E1026,Isha Bhatia,Engineering,Tue,79.5,5.65,79.9,Needs guidance on complex tasks.
+E1026,Isha Bhatia,Engineering,Wed,80.4,4.6,66.0,Needs guidance on complex tasks.
+E1026,Isha Bhatia,Engineering,Thu,83.0,6.42,65.2,Needs guidance on complex tasks.
+E1026,Isha Bhatia,Engineering,Fri,80.3,7.06,78.4,Needs guidance on complex tasks.
+E1027,Amit Kulkarni,DevOps,Mon,76.0,9.09,45.5,Often firefighting with limited long-term planning.
+E1027,Amit Kulkarni,DevOps,Tue,78.6,9.64,59.2,Often firefighting with limited long-term planning.
+E1027,Amit Kulkarni,DevOps,Wed,79.7,9.78,41.4,Often firefighting with limited long-term planning.
+E1027,Amit Kulkarni,DevOps,Thu,78.2,7.42,56.2,Often firefighting with limited long-term planning.
+E1027,Amit Kulkarni,DevOps,Fri,78.6,8.74,50.0,Often firefighting with limited long-term planning.
+E1028,Kavya Reddy,HR,Mon,95.6,4.35,94.1,Dependable senior HR professional.
+E1028,Kavya Reddy,HR,Tue,98.1,5.61,91.6,Dependable senior HR professional.
+E1028,Kavya Reddy,HR,Wed,99.8,3.97,85.4,Dependable senior HR professional.
+E1028,Kavya Reddy,HR,Thu,100.0,4.6,92.7,Dependable senior HR professional.
+E1028,Kavya Reddy,HR,Fri,96.2,6.14,91.6,Dependable senior HR professional.
+E1029,Harsh Vohra,Marketing,Mon,86.3,8.5,83.3,Contributes regularly but lacks innovation.
+E1029,Harsh Vohra,Marketing,Tue,91.1,7.62,77.9,Contributes regularly but lacks innovation.
+E1029,Harsh Vohra,Marketing,Wed,90.2,7.65,68.2,Contributes regularly but lacks innovation.
+E1029,Harsh Vohra,Marketing,Thu,80.9,6.15,64.2,Contributes regularly but lacks innovation.
+E1029,Harsh Vohra,Marketing,Fri,91.5,7.67,71.7,Contributes regularly but lacks innovation.
+E1030,Suresh Namboodiri,Sales,Mon,89.9,9.2,89.4,Veteran performer with consistent excellence.
+E1030,Suresh Namboodiri,Sales,Tue,95.2,7.86,80.5,Veteran performer with consistent excellence.
+E1030,Suresh Namboodiri,Sales,Wed,93.7,6.25,88.8,Veteran performer with consistent excellence.
+E1030,Suresh Namboodiri,Sales,Thu,95.1,8.44,82.5,Veteran performer with consistent excellence.
+E1030,Suresh Namboodiri,Sales,Fri,90.8,7.49,84.3,Veteran performer with consistent excellence.
+E1031,Meera Kulshreshtha,Engineering,Mon,87.0,7.16,83.7,Strong ownership and delivery mindset.
+E1031,Meera Kulshreshtha,Engineering,Tue,87.6,5.98,86.5,Strong ownership and delivery mindset.
+E1031,Meera Kulshreshtha,Engineering,Wed,88.3,5.57,83.5,Strong ownership and delivery mindset.
+E1031,Meera Kulshreshtha,Engineering,Thu,90.1,7.97,78.0,Strong ownership and delivery mindset.
+E1031,Meera Kulshreshtha,Engineering,Fri,89.7,6.57,80.5,Strong ownership and delivery mindset.
+E1032,Ritvik Sen,DevOps,Mon,80.3,8.79,46.9,Struggles with workload prioritization.
+E1032,Ritvik Sen,DevOps,Tue,77.2,7.84,45.3,Struggles with workload prioritization.
+E1032,Ritvik Sen,DevOps,Wed,82.1,7.09,40.0,Struggles with workload prioritization.
+E1032,Ritvik Sen,DevOps,Thu,79.7,8.1,56.2,Struggles with workload prioritization.
+E1032,Ritvik Sen,DevOps,Fri,81.4,10.76,49.6,Struggles with workload prioritization.
+E1033,Ananya Das,HR,Mon,76.2,5.14,65.4,Early career employee showing gradual improvement.
+E1033,Ananya Das,HR,Tue,76.7,5.29,67.0,Early career employee showing gradual improvement.
+E1033,Ananya Das,HR,Wed,86.1,5.03,62.8,Early career employee showing gradual improvement.
+E1033,Ananya Das,HR,Thu,85.4,5.89,70.4,Early career employee showing gradual improvement.
+E1033,Ananya Das,HR,Fri,85.6,5.21,66.4,Early career employee showing gradual improvement.
+E1034,Karan Oberoi,Engineering,Mon,84.4,8.17,98.7,Delivers excellent results but shows signs of excessive overtime and burnout.
+E1034,Karan Oberoi,Engineering,Tue,87.8,7.89,91.6,Delivers excellent results but shows signs of excessive overtime and burnout.
+E1034,Karan Oberoi,Engineering,Wed,86.7,7.88,100.0,Delivers excellent results but shows signs of excessive overtime and burnout.
+E1034,Karan Oberoi,Engineering,Thu,83.2,8.61,92.7,Delivers excellent results but shows signs of excessive overtime and burnout.
+E1034,Karan Oberoi,Engineering,Fri,82.5,9.04,91.7,Delivers excellent results but shows signs of excessive overtime and burnout.
+E1035,Palak Singhal,Marketing,Mon,90.3,7.26,80.4,Reliable team member with consistent output.
+E1035,Palak Singhal,Marketing,Tue,93.3,6.84,74.5,Reliable team member with consistent output.
+E1035,Palak Singhal,Marketing,Wed,91.3,6.52,81.5,Reliable team member with consistent output.
+E1035,Palak Singhal,Marketing,Thu,92.6,5.96,82.8,Reliable team member with consistent output.
+E1035,Palak Singhal,Marketing,Fri,88.7,7.76,75.7,Reliable team member with consistent output.
+E1036,Mohit Aggarwal,Sales,Mon,86.1,5.7,65.0,Meets expectations but needs stronger follow-ups.
+E1036,Mohit Aggarwal,Sales,Tue,87.9,6.28,75.3,Meets expectations but needs stronger follow-ups.
+E1036,Mohit Aggarwal,Sales,Wed,82.4,6.95,65.7,Meets expectations but needs stronger follow-ups.
+E1036,Mohit Aggarwal,Sales,Thu,83.4,7.04,70.7,Meets expectations but needs stronger follow-ups.
+E1036,Mohit Aggarwal,Sales,Fri,84.3,7.81,72.1,Meets expectations but needs stronger follow-ups.
+E1037,Ruchi Goel,DevOps,Mon,84.6,7.7,58.2,System knowledge is strong but execution lags.
+E1037,Ruchi Goel,DevOps,Tue,80.6,6.62,61.2,System knowledge is strong but execution lags.
+E1037,Ruchi Goel,DevOps,Wed,84.1,8.44,56.9,System knowledge is strong but execution lags.
+E1037,Ruchi Goel,DevOps,Thu,82.5,8.67,51.0,System knowledge is strong but execution lags.
+E1037,Ruchi Goel,DevOps,Fri,84.0,8.8,59.8,System knowledge is strong but execution lags.
+E1038,Faizan Ali,Engineering,Mon,87.7,6.31,78.9,Technically sound with good delivery pace.
+E1038,Faizan Ali,Engineering,Tue,89.9,6.36,83.0,Technically sound with good delivery pace.
+E1038,Faizan Ali,Engineering,Wed,88.0,7.4,91.4,Technically sound with good delivery pace.
+E1038,Faizan Ali,Engineering,Thu,82.9,6.37,87.0,Technically sound with good delivery pace.
+E1038,Faizan Ali,Engineering,Fri,87.9,5.2,76.0,Technically sound with good delivery pace.
+E1039,Sneha Patil,HR,Mon,96.0,6.74,88.1,Handles complex cases with confidence.
+E1039,Sneha Patil,HR,Tue,88.4,6.06,86.9,Handles complex cases with confidence.
+E1039,Sneha Patil,HR,Wed,90.6,6.02,89.2,Handles complex cases with confidence.
+E1039,Sneha Patil,HR,Thu,93.8,5.67,93.7,Handles complex cases with confidence.
+E1039,Sneha Patil,HR,Fri,95.5,7.22,91.2,Handles complex cases with confidence.
+E1040,Akash Srivastava,Marketing,Mon,81.5,6.23,69.2,Still building domain understanding.
+E1040,Akash Srivastava,Marketing,Tue,84.2,5.92,72.2,Still building domain understanding.
+E1040,Akash Srivastava,Marketing,Wed,85.0,6.98,65.6,Still building domain understanding.
+E1040,Akash Srivastava,Marketing,Thu,83.2,6.19,73.2,Still building domain understanding.
+E1040,Akash Srivastava,Marketing,Fri,85.1,6.24,63.1,Still building domain understanding.
+E1041,Devika Menon,Sales,Mon,94.6,7.06,88.8,Consistently strong sales performance.
+E1041,Devika Menon,Sales,Tue,97.6,8.13,91.8,Consistently strong sales performance.
+E1041,Devika Menon,Sales,Wed,86.7,6.8,81.1,Consistently strong sales performance.
+E1041,Devika Menon,Sales,Thu,91.8,8.32,92.5,Consistently strong sales performance.
+E1041,Devika Menon,Sales,Fri,99.3,6.9,86.4,Consistently strong sales performance.
+E1042,Rohan Dutta,Engineering,Mon,92.2,6.59,87.6,High performer requesting internal transfer despite insufficient tenure.
+E1042,Rohan Dutta,Engineering,Tue,87.6,6.68,89.4,High performer requesting internal transfer despite insufficient tenure.
+E1042,Rohan Dutta,Engineering,Wed,94.0,8.01,89.4,High performer requesting internal transfer despite insufficient tenure.
+E1042,Rohan Dutta,Engineering,Thu,87.0,6.09,95.0,High performer requesting internal transfer despite insufficient tenure.
+E1042,Rohan Dutta,Engineering,Fri,93.3,6.54,86.4,High performer requesting internal transfer despite insufficient tenure.
+E1043,Shalini Mishra,HR,Mon,96.5,6.32,84.5,Exemplary HR leadership and execution.
+E1043,Shalini Mishra,HR,Tue,92.0,4.29,90.9,Exemplary HR leadership and execution.
+E1043,Shalini Mishra,HR,Wed,93.1,5.16,97.1,Exemplary HR leadership and execution.
+E1043,Shalini Mishra,HR,Thu,100.0,4.83,86.5,Exemplary HR leadership and execution.
+E1043,Shalini Mishra,HR,Fri,96.3,3.9,91.7,Exemplary HR leadership and execution.
+E1044,Yash Thakur,DevOps,Mon,80.8,6.24,47.6,Slow turnaround times impact team output.
+E1044,Yash Thakur,DevOps,Tue,86.5,8.96,47.8,Slow turnaround times impact team output.
+E1044,Yash Thakur,DevOps,Wed,77.7,8.18,54.6,Slow turnaround times impact team output.
+E1044,Yash Thakur,DevOps,Thu,81.0,8.45,61.9,Slow turnaround times impact team output.
+E1044,Yash Thakur,DevOps,Fri,80.6,8.56,48.9,Slow turnaround times impact team output.
+E1045,Pritam Roy,Marketing,Mon,87.9,6.76,74.1,Steady contributor with minimal supervision.
+E1045,Pritam Roy,Marketing,Tue,88.3,6.63,74.3,Steady contributor with minimal supervision.
+E1045,Pritam Roy,Marketing,Wed,80.0,8.4,75.7,Steady contributor with minimal supervision.
+E1045,Pritam Roy,Marketing,Thu,81.8,8.2,82.5,Steady contributor with minimal supervision.
+E1045,Pritam Roy,Marketing,Fri,83.8,6.9,75.3,Steady contributor with minimal supervision.
+E1046,Alok Verma,Sales,Mon,89.3,6.11,68.1,Average sales numbers with room for growth.
+E1046,Alok Verma,Sales,Tue,86.2,8.02,76.7,Average sales numbers with room for growth.
+E1046,Alok Verma,Sales,Wed,85.5,6.58,66.4,Average sales numbers with room for growth.
+E1046,Alok Verma,Sales,Thu,83.3,7.57,65.9,Average sales numbers with room for growth.
+E1046,Alok Verma,Sales,Fri,85.3,7.57,70.1,Average sales numbers with room for growth.
+E1047,Nupur Saxena,Engineering,Mon,87.8,7.03,87.2,Reliable and detail-oriented engineer.
+E1047,Nupur Saxena,Engineering,Tue,90.1,6.57,92.1,Reliable and detail-oriented engineer.
+E1047,Nupur Saxena,Engineering,Wed,93.8,5.1,90.6,Reliable and detail-oriented engineer.
+E1047,Nupur Saxena,Engineering,Thu,94.1,5.68,88.1,Reliable and detail-oriented engineer.
+E1047,Nupur Saxena,Engineering,Fri,86.3,4.97,85.5,Reliable and detail-oriented engineer.
+E1048,Imran Khan,HR,Mon,87.3,4.68,73.0,Learning internal processes steadily.
+E1048,Imran Khan,HR,Tue,82.6,7.06,59.6,Learning internal processes steadily.
+E1048,Imran Khan,HR,Wed,83.2,5.26,69.5,Learning internal processes steadily.
+E1048,Imran Khan,HR,Thu,82.3,6.58,69.8,Learning internal processes steadily.
+E1048,Imran Khan,HR,Fri,81.8,5.41,70.8,Learning internal processes steadily.
+E1049,Kirti Bajaj,Marketing,Mon,89.0,6.13,84.5,Strong campaign ownership and execution.
+E1049,Kirti Bajaj,Marketing,Tue,92.4,7.64,86.7,Strong campaign ownership and execution.
+E1049,Kirti Bajaj,Marketing,Wed,91.4,7.78,83.1,Strong campaign ownership and execution.
+E1049,Kirti Bajaj,Marketing,Thu,90.1,7.66,79.1,Strong campaign ownership and execution.
+E1049,Kirti Bajaj,Marketing,Fri,96.1,6.14,85.0,Strong campaign ownership and execution.
+E1050,Sanjay Rawat,DevOps,Mon,81.9,9.0,55.4,Keeps systems running but lacks efficiency improvements.
+E1050,Sanjay Rawat,DevOps,Tue,73.5,9.61,61.3,Keeps systems running but lacks efficiency improvements.
+E1050,Sanjay Rawat,DevOps,Wed,79.1,8.3,46.6,Keeps systems running but lacks efficiency improvements.
+E1050,Sanjay Rawat,DevOps,Thu,79.6,8.22,55.6,Keeps systems running but lacks efficiency improvements.
+E1050,Sanjay Rawat,DevOps,Fri,74.8,8.31,49.2,Keeps systems running but lacks efficiency improvements.

@@ -1,0 +1,60 @@
+emp_id,name,dept,tenure_months,attendance_pct,avg_screen_time,task_completion_score,special_certifications,manager_feedback
+E1001,Aarav Sharma,Sales,36,92,7.5,82,Yes,Consistently meets targets and collaborates well with the team.
+E1002,Neha Verma,Engineering,24,88,6.8,78,No,Delivers stable output but could improve documentation.
+E1003,Rohit Mehta,HR,48,95,5.5,85,Yes,Very dependable and trusted with sensitive responsibilities.
+E1004,Simran Kaur,Marketing,18,90,7.2,76,No,Creative contributor with good campaign execution.
+E1005,Ankit Gupta,Sales,12,85,8.0,70,No,Shows potential but needs better time management.
+
+E1006,Priya Nair,Engineering,30,93,6.0,88,Yes,Strong problem-solving skills and mentors juniors.
+E1007,Kunal Singh,HR,10,80,6.5,65,No,Learning fast but still needs supervision.
+E1008,Riya Malhotra,Marketing,22,89,7.0,74,No,Delivers consistent results with minimal issues.
+E1009,Aditya Rao,Sales,40,94,7.8,90,Yes,Top performer with excellent client handling skills.
+E1010,Mehul Jain,Engineering,14,87,6.2,72,No,Average contributor with steady progress.
+
+E1011,Sonal Chatterjee,DevOps,26,82,8.5,55,No,Handles incidents but struggles with proactive improvements.
+E1012,Vikram Bansal,Engineering,20,90,9.5,35,No,Always online but misses deadlines and deliverables.
+E1013,Nidhi Kapoor,HR,34,96,5.0,92,Yes,Highly reliable and efficient in core HR processes.
+E1014,Arjun Iyer,Marketing,8,78,6.8,60,No,Still adjusting to role expectations.
+E1015,Manish Pandey,Sales,28,88,7.1,75,No,Performs adequately with occasional delays.
+
+E1016,Pooja Saxena,DevOps,19,84,8.2,52,No,Reactive work style and slow resolution times.
+E1017,Rahul Khanna,Engineering,50,91,6.5,86,Yes,Experienced engineer with consistent delivery.
+E1018,Ayesha Farooq,HR,16,83,5.8,68,No,Meets expectations but lacks initiative.
+E1019,Siddharth Bose,Marketing,27,92,7.4,80,Yes,Strong analytical input for marketing strategies.
+E1020,Varun Mallick,Sales,6,75,8.0,62,No,Early stage employee still learning sales cycles.
+
+E1021,Tanvi Joshi,Engineering,42,97,4.0,98,Yes,"Highly efficient, works offline and delivers exceptional results."
+E1022,Deepak Yadav,DevOps,33,86,8.9,58,No,Maintains systems but lacks optimization focus.
+E1023,Shreya Mukherjee,HR,21,90,5.6,77,No,Good interpersonal skills and steady task closure.
+E1024,Abhishek Arora,Marketing,15,85,6.9,71,No,Average campaign contributions.
+E1025,Naveen Pillai,Sales,38,93,7.7,88,Yes,Consistent closer with strong negotiation skills.
+
+E1026,Isha Bhatia,Engineering,11,82,6.3,69,No,Needs guidance on complex tasks.
+E1027,Amit Kulkarni,DevOps,29,80,8.7,50,No,Often firefighting with limited long-term planning.
+E1028,Kavya Reddy,HR,45,96,5.2,91,Yes,Dependable senior HR professional.
+E1029,Harsh Vohra,Marketing,20,87,7.1,73,No,Contributes regularly but lacks innovation.
+E1030,Suresh Namboodiri,Sales,55,94,7.9,89,Yes,Veteran performer with consistent excellence.
+
+E1031,Meera Kulshreshtha,Engineering,31,90,6.4,84,Yes,Strong ownership and delivery mindset.
+E1032,Ritvik Sen,DevOps,14,78,8.3,48,No,Struggles with workload prioritization.
+E1033,Ananya Das,HR,9,81,5.9,66,No,Early career employee showing gradual improvement.
+E1034,Karan Oberoi,Engineering,60,85,9.0,96,Yes,Delivers excellent results but shows signs of excessive overtime and burnout.
+E1035,Palak Singhal,Marketing,25,91,7.3,79,No,Reliable team member with consistent output.
+
+E1036,Mohit Aggarwal,Sales,19,86,7.0,74,No,Meets expectations but needs stronger follow-ups.
+E1037,Ruchi Goel,DevOps,41,83,8.6,54,No,System knowledge is strong but execution lags.
+E1038,Faizan Ali,Engineering,27,89,6.7,81,Yes,Technically sound with good delivery pace.
+E1039,Sneha Patil,HR,37,95,5.4,88,Yes,Handles complex cases with confidence.
+E1040,Akash Srivastava,Marketing,13,84,6.6,68,No,Still building domain understanding.
+
+E1041,Devika Menon,Sales,44,92,7.8,85,Yes,Consistently strong sales performance.
+E1042,Rohan Dutta,Engineering,4,90,6.5,87,No,High performer requesting internal transfer despite insufficient tenure.
+E1043,Shalini Mishra,HR,52,97,5.1,93,Yes,Exemplary HR leadership and execution.
+E1044,Yash Thakur,DevOps,22,81,8.4,49,No,Slow turnaround times impact team output.
+E1045,Pritam Roy,Marketing,29,88,7.2,77,No,Steady contributor with minimal supervision.
+
+E1046,Alok Verma,Sales,17,84,7.0,72,No,Average sales numbers with room for growth.
+E1047,Nupur Saxena,Engineering,35,91,6.1,89,Yes,Reliable and detail-oriented engineer.
+E1048,Imran Khan,HR,14,82,5.7,70,No,Learning internal processes steadily.
+E1049,Kirti Bajaj,Marketing,41,93,7.5,83,Yes,Strong campaign ownership and execution.
+E1050,Sanjay Rawat,DevOps,36,79,8.8,53,No,Keeps systems running but lacks efficiency improvements.
