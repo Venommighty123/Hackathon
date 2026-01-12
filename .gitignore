@@ -1,5 +1,2 @@
-.env
 Hack_venv
-credentials.json
-token.json
 __pycache__/
