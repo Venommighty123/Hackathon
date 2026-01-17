@@ -1,2 +1,7 @@
-Hack_venv
+Hack_venv/
 __pycache__/
+
+credentials.json
+token.json
+
+.env
