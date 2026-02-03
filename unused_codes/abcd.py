@@ -3,7 +3,7 @@ import os
 from pymongo import MongoClient, errors
 
 # Use your Atlas SRV string here
-ATLAS_URI = "mongodb+srv://mathurkushagra163_db_user:ElTitz0clXuFXUeu@cluster0.1c2z3gd.mongodb.net/?appName=Cluster0"
+ATLAS_URI = "mangodb_line"
 DB_NAME = "hr_database"
 COLLECTION_NAME = "employees_biometrics"
 
