@@ -3,7 +3,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 from datetime import datetime
 from Agentics.planner_agents import meeting_planner
 
-ATLAS_URI = "mongodb+srv://mathurkushagra163_db_user:ElTitz0clXuFXUeu@cluster0.1c2z3gd.mongodb.net/?appName=Cluster0"
+ATLAS_URI = os.getenv("MONGO_URI")
 
 # Async Mongo Client
 client = AsyncIOMotorClient(ATLAS_URI)
