@@ -8,8 +8,7 @@ from langchain_groq import ChatGroq
 from langchain_core.output_parsers import PydanticOutputParser
 from langchain_core.prompts import PromptTemplate
 
-MONGO_URI = "mongodb+srv://mathurkushagra163_db_user:ElTitz0clXuFXUeu@cluster0.1c2z3gd.mongodb.net/?appName=Cluster0"
-
+MONGO_URI = os.getenv("MONGO_URI")
 # Async Mongo Client
 client = AsyncIOMotorClient(MONGO_URI)
 db = client["hr_database"]
