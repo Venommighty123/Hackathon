@@ -9,7 +9,7 @@ from Agentics.services.calendar_service import schedule_meeting, fetch_slots
 from datetime import datetime
 from langchain_core.messages import HumanMessage, ToolMessage
 
-MONGO_URI = "mongodb+srv://mathurkushagra163_db_user:ElTitz0clXuFXUeu@cluster0.1c2z3gd.mongodb.net/?appName=Cluster0"
+MONGO_URI = os.getenv("MONGO_URI")
 
 client = AsyncIOMotorClient(MONGO_URI)
 db = client["hr_database"]
