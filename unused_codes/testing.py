@@ -7,7 +7,7 @@
 # from googleapiclient.discovery import build
 
 # # Use the full 'calendar' scope to test both reading and the permissions needed for booking later
-# SCOPES = ['https://www.googleapis.com/auth/calendar']
+# SCOPES = ['calendar link']
 
 # def test_google_calendar_connection():
 #     creds = None
@@ -21,11 +21,11 @@
 #             creds.refresh(Request())
 #         else:
 #             print("[*] No valid token found. Opening browser for authentication...")
-#             if not os.path.exists(r'client_secret_945027684471-abdh1mmbidcvd00dvqmedj6cgc7k1sko.apps.googleusercontent.com.json'):
+#             if not os.path.exists(r'token.json'):
 #                 print("[!] ERROR: 'credentials.json' not found! Download it from Google Cloud Console.")
 #                 return
             
-#             flow = InstalledAppFlow.from_client_secrets_file(r'client_secret_945027684471-abdh1mmbidcvd00dvqmedj6cgc7k1sko.apps.googleusercontent.com.json', SCOPES)
+#             flow = InstalledAppFlow.from_client_secrets_file(r'token.json', SCOPES)
 #             creds = flow.run_local_server(port=0)
             
 #         # Save the credentials for the next run
